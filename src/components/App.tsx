@@ -10,7 +10,7 @@ import { PasswordForget } from "../pages/PasswordForget";
 import { SignIn } from "../pages/SignIn";
 import { SignUp } from "../pages/SignUp";
 import { Navigation } from "./Navigation";
-
+ 
 class AppComponent extends React.Component {
   constructor(props: any) {
     super(props);
